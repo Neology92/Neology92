@@ -46,7 +46,7 @@ If you're about creating a better world through tech — I would love to connect
 
 ## 📫 Let's Connect
 
-e-mail: oskarlegner@gmail.com
+E-mail: oskarlegner@gmail.com
 
 
 <!--
