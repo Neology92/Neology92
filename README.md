@@ -2,6 +2,7 @@
 
 I'm a passionate developer and technology enthusiast who believes in using tech to make people's lives better — not to manipulate or exploit.
 My goal is to build healthy, inspiring spaces where everyone can thrive. 🌿
+Currently living in 🇵🇱 Poland and looking for job mainly here.
 
 
 ## 🛠️ What I'm working with:
