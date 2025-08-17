@@ -24,8 +24,8 @@ Currently living in 🇵🇱 Poland and looking for job mainly here.
 
 ## 🌱 I’m currently learning
 
-- 🔓 CyberSecurity (Kali Linux, networking, pentesting: recon/exploits/pivoting, scripting/automation)
-- 🎮 **Unity/Godot game development**
+- 🔓 **CyberSecurity** (Kali Linux, networking, pentesting: recon/exploits/pivoting, scripting/automation)
+- 🎮 **Unity/Godot** game development
 
 ## 🧠 Interests beyond code
 
