@@ -14,7 +14,8 @@ Currently living in 🇵🇱 Poland and looking for job mainly here.
 - **Cybersecurity**:  
   - Red team mindset 🔥  
   - Exploring security from the offensive side to build stronger, safer systems and better understand how it works
-- **Quality of Life Improvements**: Small projects that simplify tasks and bring more freedom to users
+- **Quality of Life Improvements**: 
+  - Small projects that simplify tasks and bring more freedom to users
 - **Tech & Creativity**:  
   - Electronics fundamentals  
   - 3D modeling & graphic design  
@@ -23,8 +24,8 @@ Currently living in 🇵🇱 Poland and looking for job mainly here.
 
 ## 🌱 I’m currently learning
 
-- 🎮 Deepening my skills in **Unity game development**
-- 👨‍🏫 Growing as a **programming teacher** (currently teaching at a technical school)
+- 🔓 CyberSecurity (Kali Linux, networking, pentesting: recon/exploits/pivoting, scripting/automation)
+- 🎮 **Unity/Godot game development**
 
 ## 🧠 Interests beyond code
 
@@ -34,7 +35,7 @@ I'm deeply interested in the **human side of technology**:
 - **Ethical UX**:  
   I care about improving user experiences without manipulating users or fueling artificial needs for profit.  
   My goal is to design tools and spaces that **serve people**, not exploit them.
-
+- Worked for a year as a **programming teacher** at a technical school.
 
 
 ## 🌍 What I'm looking for
